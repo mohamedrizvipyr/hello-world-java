@@ -35,5 +35,11 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
+     System.out.println("Hello, marr");
+     System.out.println("Hello, pluto");
+     System.out.println("Hello, jupiter");
+     System.out.println("Hello, vines");
+     System.out.println("Hello, mercury");
+     System.out.println("Hello, moon");
   }
 }
