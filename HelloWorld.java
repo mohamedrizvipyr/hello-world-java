@@ -37,7 +37,7 @@ public class HelloWorld {
     System.out.println("Hello, World");
      System.out.println("Hello, name");
     System.out.println("Hello, pluto");
-    System.out.println("Hello, new planate")
-    System.out.println("Hello, old planate")
+    System.out.println("Hello, new planate");
+    System.out.println("Hello, old planate");
   }
 }
